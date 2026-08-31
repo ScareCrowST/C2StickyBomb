@@ -20,9 +20,9 @@ namespace C2StickyBomb
 {
     public class C2StickyBombPlugin : Plugin
     {
-        public override string Name => "C2 Sticky Bomb & Sapper";
-        public override string Description => "С2, Экипировка сапёра, реалистичный урон и чувствительное обезвреживание.";
-        public override string Author => "AI";
+        public override string Name => "C2 Sticky Bomb";
+        public override string Description => "С2 Экипировка сапёра, реалистичный урон и чувствительное обезвреживание.";
+        public override string Author => "ScareCrow";
         public override Version Version => new Version(1, 0, 9);
         public override Version RequiredApiVersion => new Version(1, 1, 7);
 
